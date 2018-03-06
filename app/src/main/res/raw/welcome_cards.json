@@ -1,0 +1,8 @@
+[
+  {
+    "type":"text",
+    "title":"Hello",
+    "text":"This is a sample card! You can swipe this!",
+    "isSwipeable":true
+  }
+]

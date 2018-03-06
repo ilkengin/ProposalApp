@@ -1,0 +1,50 @@
+[
+  {
+    "type":"text",
+    "title":"Text!",
+    "text":"This is a saple text! You can swipe it!",
+    "isSwipeable":true
+  },
+  {
+    "type":"text",
+    "title":"Text!",
+    "text":"And this!",
+    "isSwipeable":true
+  },
+  {
+    "type":"text",
+    "title":"Text!",
+    "text":"And this!",
+    "isSwipeable":true
+  },
+  {
+    "type":"image",
+    "name":"Question card",
+    "district":"District",
+    "latitude":40.898612,
+    "longtitude":29.201744,
+    "imageUrl":"https://g.hizliresim.com/teleskop-f123",
+    "isSwipeable":false,
+    "pin":"PIN",
+    "missionNumber":1,
+    "description":"YOU CANNOT SWIPE! YOU SHOULD ENTER PIN TO SWIPE!"
+  },
+  {
+    "type":"text",
+    "title":"Bravo!",
+    "text":"You can swipe this!",
+    "isSwipeable":true
+  },
+  {
+    "type":"image",
+    "name":"Question card",
+    "district":"District",
+    "latitude":40.808612,
+    "longtitude":29.251744,
+    "imageUrl":"https://g.hizliresim.com/teleskop-f123",
+    "isSwipeable":false,
+    "pin":"PIN",
+    "missionNumber":1,
+    "description":"YOU CANNOT SWIPE! YOU SHOULD ENTER PIN TO SWIPE!"
+  }
+]

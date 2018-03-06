@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Bizim Maceramız</string>
+
+    <!--<string name="dummy_content">ELİF\n&amp;\nİLKAN</string>-->
+    <string name="splash_content">I LOVE YOU&#8230;\nSO MUCH&#8230;</string>
+
+    <string name="email">my_email@gmail.com</string>
+    <string name="password">mypassword</string>
+
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+
+    <!-- Utils -->
+    <string name="gps_network_not_enabled">No GPS provider is enabled. Please enable one!</string>
+    <string name="open_location_settings">Go to Settings</string>
+    <!-- Utils -->
+
+    <!-- MapViewActivity -->
+    <!-- MapViewActivity -->
+
+
+    <!-- MainActivity -->
+    <!-- MainActivity -->
+
+    <!-- SplashActivity -->
+    <!-- SplashActivity -->
+
+    <!-- StoryActivity -->
+    <!-- StoryActivity -->
+
+    <!-- VideoPlayerActivity -->
+    <!-- VideoPlayerActivity -->
+
+    <!-- Keys -->
+    <string name="google_maps_key">AIzaSyAYs08IubRw2wkSQDQyToE3vvILqTVuc2c</string>
+    <!-- Keys -->
+
+    <!-- Main Menu -->
+    <string name="videos_menu_item">Videolar</string>
+    <!-- Main Menu -->
+
+</resources>

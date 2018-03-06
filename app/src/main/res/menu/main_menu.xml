@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/available_videos_menu_item"
+        android:icon="@drawable/ion_social_youtube_outline_white"
+        android:title="@string/videos_menu_item"
+        app:showAsAction="ifRoom"/>
+</menu>

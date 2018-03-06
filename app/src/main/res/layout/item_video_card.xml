@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--<fragment-->
+    <!--android:tag="deneme"-->
+    <!--android:id="@+id/fragment_container"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+
+    <!--<FrameLayout-->
+    <!--android:id="@+id/video_fragment_container"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:background="#000000"-->
+    <!--android:layout_centerInParent="true"-->
+    <!--android:foregroundGravity="center"-->
+    <!--android:keepScreenOn="true"-->
+    <!--&gt;-->
+
+    <!--</FrameLayout>-->
+
+    <com.afollestad.easyvideoplayer.EasyVideoPlayer
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/item_card_video_player"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:evp_autoFullscreen="false"
+        app:evp_autoPlay="true"
+        app:evp_loop="false"
+        app:evp_disableControls="true"
+        app:evp_hideControlsOnPlay="true" />
+
+</RelativeLayout>

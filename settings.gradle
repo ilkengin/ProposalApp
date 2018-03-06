@@ -1,0 +1,2 @@
+include ':app', ':Pinview'
+project(':Pinview').projectDir = new File('libs/Pinview/pinview')

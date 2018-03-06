@@ -1,0 +1,30 @@
+[
+  {
+    "question":"Your birthday?",
+    "type":"radio",
+    "answers":[
+      "21st of June 1994",
+      "15th of July 2016",
+      "5th of November 1993"
+    ],
+    "correctAnswer":"5th of November 1993",
+    "videoName":"sample_video"
+  },
+  {
+    "question":"Your birthday?",
+    "type":"radio",
+    "answers":[
+      "21st of June 1994",
+      "15th of July 2016",
+      "5th of November 1993"
+    ],
+    "correctAnswer":"5th of November 1993",
+    "videoName":"sample_video"
+  },
+  {
+    "question":"Your name?",
+    "type":"edittext",
+    "correctAnswer":"your name",
+    "videoName":"sample_video"
+  }
+]
